@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Candidature – Holly Brou</title>
+</head>
+<body style="margin:0; padding:0; font-family: Arial, sans-serif; background:#f4f4f4;">
+
+  <!-- Container -->
+  <table role="presentation" style="width:100%; border-collapse:collapse; padding:20px;">
+    <tr>
+      <td align="center">
+
+        <!-- Card -->
+        <table role="presentation" style="max-width:600px; width:100%; background:#000; color:#fff; border-radius:8px; overflow:hidden;">
+          <!-- Header -->
+          <tr>
+            <td align="center" style="padding:30px; background:#111;">
+              <h1 style="margin:0; font-size:24px; letter-spacing:1px;">PORTFOLIO – HOLLY BROU</h1>
+              <p style="margin:5px 0 0; font-size:14px; color:#bbb;">Étudiante en Master Communication</p>
+              <p style="margin:2px 0 0; font-size:13px; color:#bbb;">À la recherche d’une alternance de 2 ans</p>
+            </td>
+          </tr>
+
+          <!-- Message -->
+          <tr>
+            <td style="padding:25px 30px; font-size:15px; line-height:1.6; color:#eee;">
+              Bonjour [Nom du recruteur], <br><br>
+
+              Je me permets de vous contacter dans le cadre de ma recherche d’une <b>alternance de 2 ans en communication</b> à partir de [mois/année].  
+              Passionnée par la <b>communication, le marketing digital et la création visuelle</b>, je souhaite mettre ma créativité et mon sens stratégique au service d’une entreprise innovante.  
+
+              <br><br>
+              Vous trouverez ci-dessous les liens vers mon <b>Portfolio</b> et mon <b>CV</b> :  
+              <br><br>
+
+              <a href="[LIEN_PORTFOLIO]" style="display:inline-block; padding:10px 18px; margin:5px; background:#fff; color:#000; text-decoration:none; border-radius:4px; font-weight:bold;">📂 Voir le Portfolio</a>
+              <a href="[LIEN_CV]" style="display:inline-block; padding:10px 18px; margin:5px; background:#fff; color:#000; text-decoration:none; border-radius:4px; font-weight:bold;">📄 Télécharger le CV</a>
+
+              <br><br>
+              Je reste à votre disposition pour un échange et je vous remercie par avance pour votre attention.  
+
+              <br><br>
+              Bien cordialement,  
+              <br>
+              <b>Holly Brou</b>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td align="center" style="padding:20px; background:#111; font-size:13px; color:#bbb;">
+              📧 <a href="mailto:bhollymelikalofanny@gmail.com" style="color:#bbb; text-decoration:none;">bhollymelikalofanny@gmail.com</a>  
+              | 📱 <a href="tel:+33666420629" style="color:#bbb; text-decoration:none;">06 66 42 06 29</a>
+            </td>
+          </tr>
+        </table>
+        <!-- End Card -->
+
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
